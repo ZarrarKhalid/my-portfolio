@@ -1,0 +1,11 @@
+.secondheading {
+    border-radius: 2px;
+    color: rgb(4, 62, 62);
+    background-color: rgb(176, 29, 29);
+    background-size: 20%;
+}
+.firstpara {
+    font-style: oblique;
+    font-style: italic;
+
+}
